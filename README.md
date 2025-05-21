@@ -14,7 +14,7 @@ This week is all about laying a strong foundation in **core Java programming con
   - [Day 3: Control Flow](#day-3-control-flow)
   - [Day 4: Arrays](#day-4-arrays)
   - [Day 5: Strings](#day-5-strings)
-  - [Day 6: Functions (Methods)](#day-6-functions-methods)
+
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Next Steps](#next-steps)
@@ -28,7 +28,7 @@ This week focused on understanding the **syntax**, **data types**, **control str
 - Use variables and data types
 - Control program flow
 - Work with arrays and strings
-- Organize code using methods
+
 
 ---
 
@@ -66,12 +66,6 @@ This week focused on understanding the **syntax**, **data types**, **control str
 - String comparison (`equals()`, `equalsIgnoreCase()`)
 - String concatenation
 - Immutability of strings
-
-### Day 6: Functions (Methods)
-- Defining and calling methods
-- Method parameters and return types
-- Method overloading
-- Understanding `static` and `void` keywords
 
 ---
 
